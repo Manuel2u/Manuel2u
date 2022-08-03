@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend Web Development**
 
-- 📫 How to reach me mailto:emmanueldodoo94@gmail.com
+- 📫 How to reach me <a href = "mailto:emmanueldodoo94@gmail.com">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

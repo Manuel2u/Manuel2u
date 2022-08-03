@@ -1,4 +1,4 @@
-[![MasterHead](https://www.cttnservice.com/advertisement/web-design.gif)]
+![MasterHead](https://www.cttnservice.com/advertisement/web-design.gif)
 <h1 align="center">Hi 👋, I'm Emmanuel Dodoo</h1>
 <h3 align="center">A potential Web developer from Accra,Ghana</h3>
 <img align = "right" alt = "coding" width ="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">

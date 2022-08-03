@@ -8,9 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/sonof_god_" target="blank"><img src="https://img.shields.io/twitter/follow/sonof_god_?logo=twitter&style=for-the-badge" alt="sonof_god_" /></a> </p>
 <img align = "right" alt = "coding" width ="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-- 🔭 I’m currently working on **a Blog Website**
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 🔭 I’m currently working on *A Blog Website*
+
+- 🌱 I’m currently learning *Backend Web Development*
 
 - 📫 How to reach me <a href = "mailto:emmanueldodoo94@gmail.com">Email</a>
 

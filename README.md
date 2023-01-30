@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/manuel___dev" target="blank"><img src="https://img.shields.io/twitter/follow/manuel___dev?logo=twitter&style=for-the-badge" alt="manuel___dev" /></a> </p>
 <img align = "right" alt = "coding" width ="400" src ="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🔭 I’m currently working on *Google Keep Clone*
+- 🔭 I’m currently working on *E-Commerce Site*
 
-- 🌱 I’m currently learning *Next.Js*
+- 🌱 I’m currently learning *Machine Learning*
 
 - 📫 How to reach me <a href = "mailto:emmanueldodoo94@gmail.com">Email</a>
 
